@@ -1,0 +1,33 @@
+.depoimentos{
+    padding: 80px 30px;
+    text-align: center;
+    background: #f9f9f9;
+}
+
+.depoimentos h2{
+    margin-bottom: 40px;
+}
+
+.depoimentos-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+}
+
+.depoimentos-card{
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.depoimentos-card .texto{
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.depoimentos-card .nome{
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+}

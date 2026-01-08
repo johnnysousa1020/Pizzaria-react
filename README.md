@@ -70,17 +70,17 @@ educacionais e de portfólio.
 ## 🚀 Como rodar o projeto localmente
 
 bash
-# Clone o repositório
+### Clone o repositório
 git clone
 https://github.com/johnnysousa1020/pizzaria-react.git
 
-# Entre na pasta do projeto
+### Entre na pasta do projeto
 cd Pizzaria-react
 
-# instale as dependências
+### instale as dependências
 npm install
 
-# Inicie o servidor de desenvolvimento
+### Inicie o servidor de desenvolvimento
 npm run dev
 
 ---
